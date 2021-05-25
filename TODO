@@ -1,0 +1,30 @@
+TODO:
+
+1. getGroupActivityEnrolledStudents +
+2. quitGroupActivity +
+3. quitStudyGroup +
+
+4. createStudent +
+5. updateStudent +
+
+6. createProfessor +
+7. updateProfessor +
+
+8. changeActivityProfessor -> for students
+
+9. algorithm to enroll student without overlaps
+
+11. error messages
+12. forms validation
+
+13. schedule a test/exam
+14. Notifications
+    - student hasn't enough hours
+    - notification about cancelling group activity
+    - notifications about test/exam
+
+15. createUser +
+16. updateUser +
+
+17. Put user info with getUser request +
+    Solution: add info field to user object (it is one to one relation)
